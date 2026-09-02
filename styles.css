@@ -281,11 +281,11 @@ h2.title {
 }
 .collage {
   position: relative;
-  min-height: 420px;
+  min-height: 560px;
 }
 .photo {
   position: absolute;
-  inset: 24px 22px 80px 60px;
+  inset: 92px 68px 24px 68px;
   padding: 10px;
   background: var(--c);
   border: 5px solid var(--bd);
@@ -313,7 +313,7 @@ h2.title {
 }
 .n1 {
   right: 0;
-  top: 10px;
+  top: 42px;
   width: 220px;
   background: var(--y);
   transform: rotate(5deg);
@@ -916,14 +916,14 @@ footer a {
     font-size: clamp(3rem, 17vw, 4.8rem);
   }
   .collage {
-    min-height: 500px;
+    min-height: 570px;
   }
   .photo {
-    inset: 20px 12px 106px 12px;
+    inset: 92px 58px 42px 58px;
   }
   .n1 {
     right: 6px;
-    top: 0;
+    top: 34px;
     width: 184px;
   }
   .n2 {
